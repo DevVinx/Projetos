@@ -23,6 +23,12 @@ Inicio
   caso "*"
   resultado <- n1 * n2
   escreva("O resultado da multiplicação deu: ", resultado)
-  
+  caso "\"
+  resultado <- n1 \ n2
+  escreva("O resultado da divisão deu: ", resultado)
+
+  outrocaso
+  escreva("Operação Inválida, escolha os operadores do exemplo!")
+  resultado <- 0
   fimescolha
 Fimalgoritmo
