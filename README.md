@@ -1,12 +1,10 @@
 # projetos-algoritmos
- Repositório para acompanhar meu aprendizado e conhecimento com algoritmos.
+ Repositório para acompanhar meu aprendizado e conhecimento com algoritmos e Java.
 
 - Data de início: 17/02/2026
- O meu objetivo: aprender e dominar estruturas para Java
+ O meu objetivo: aprender e dominar estruturas e a linguagem Java
 - Dev inicial em Java | São Paulo
 
 Sintam-se muito bem vindos para acompanhar meus projetos profissionais!
 
-*OBS: Este repositório será somente algorítmos. Recomendado usar o visualG para executar os projetos!*
-
-Última atualização: 19/02/2026
+Última atualização: 02/09/2026
