@@ -1,4 +1,4 @@
-# projetos-algoritmos
+# projetos
  Repositório para acompanhar meu aprendizado e conhecimento com algoritmos e Java.
 
 - Data de início: 17/02/2026
